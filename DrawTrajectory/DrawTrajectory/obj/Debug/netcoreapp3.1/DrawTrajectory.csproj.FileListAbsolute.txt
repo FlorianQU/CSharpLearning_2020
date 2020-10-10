@@ -1,0 +1,13 @@
+C:\Users\qqu\source\repos\DrawTrajectory\DrawTrajectory\bin\Debug\netcoreapp3.1\DrawTrajectory.exe
+C:\Users\qqu\source\repos\DrawTrajectory\DrawTrajectory\bin\Debug\netcoreapp3.1\DrawTrajectory.deps.json
+C:\Users\qqu\source\repos\DrawTrajectory\DrawTrajectory\bin\Debug\netcoreapp3.1\DrawTrajectory.runtimeconfig.json
+C:\Users\qqu\source\repos\DrawTrajectory\DrawTrajectory\bin\Debug\netcoreapp3.1\DrawTrajectory.runtimeconfig.dev.json
+C:\Users\qqu\source\repos\DrawTrajectory\DrawTrajectory\bin\Debug\netcoreapp3.1\DrawTrajectory.dll
+C:\Users\qqu\source\repos\DrawTrajectory\DrawTrajectory\bin\Debug\netcoreapp3.1\DrawTrajectory.pdb
+C:\Users\qqu\source\repos\DrawTrajectory\DrawTrajectory\obj\Debug\netcoreapp3.1\DrawTrajectory.csprojAssemblyReference.cache
+C:\Users\qqu\source\repos\DrawTrajectory\DrawTrajectory\obj\Debug\netcoreapp3.1\DrawTrajectory.AssemblyInfoInputs.cache
+C:\Users\qqu\source\repos\DrawTrajectory\DrawTrajectory\obj\Debug\netcoreapp3.1\DrawTrajectory.AssemblyInfo.cs
+C:\Users\qqu\source\repos\DrawTrajectory\DrawTrajectory\obj\Debug\netcoreapp3.1\DrawTrajectory.csproj.CoreCompileInputs.cache
+C:\Users\qqu\source\repos\DrawTrajectory\DrawTrajectory\obj\Debug\netcoreapp3.1\DrawTrajectory.dll
+C:\Users\qqu\source\repos\DrawTrajectory\DrawTrajectory\obj\Debug\netcoreapp3.1\DrawTrajectory.pdb
+C:\Users\qqu\source\repos\DrawTrajectory\DrawTrajectory\obj\Debug\netcoreapp3.1\DrawTrajectory.genruntimeconfig.cache
