@@ -1,0 +1,13 @@
+C:\Users\qqu\source\repos\HealthyRecord\HealthyRecord\bin\Debug\netcoreapp3.1\HealthyRecord.exe
+C:\Users\qqu\source\repos\HealthyRecord\HealthyRecord\bin\Debug\netcoreapp3.1\HealthyRecord.deps.json
+C:\Users\qqu\source\repos\HealthyRecord\HealthyRecord\bin\Debug\netcoreapp3.1\HealthyRecord.runtimeconfig.json
+C:\Users\qqu\source\repos\HealthyRecord\HealthyRecord\bin\Debug\netcoreapp3.1\HealthyRecord.runtimeconfig.dev.json
+C:\Users\qqu\source\repos\HealthyRecord\HealthyRecord\bin\Debug\netcoreapp3.1\HealthyRecord.dll
+C:\Users\qqu\source\repos\HealthyRecord\HealthyRecord\bin\Debug\netcoreapp3.1\HealthyRecord.pdb
+C:\Users\qqu\source\repos\HealthyRecord\HealthyRecord\obj\Debug\netcoreapp3.1\HealthyRecord.csprojAssemblyReference.cache
+C:\Users\qqu\source\repos\HealthyRecord\HealthyRecord\obj\Debug\netcoreapp3.1\HealthyRecord.AssemblyInfoInputs.cache
+C:\Users\qqu\source\repos\HealthyRecord\HealthyRecord\obj\Debug\netcoreapp3.1\HealthyRecord.AssemblyInfo.cs
+C:\Users\qqu\source\repos\HealthyRecord\HealthyRecord\obj\Debug\netcoreapp3.1\HealthyRecord.csproj.CoreCompileInputs.cache
+C:\Users\qqu\source\repos\HealthyRecord\HealthyRecord\obj\Debug\netcoreapp3.1\HealthyRecord.dll
+C:\Users\qqu\source\repos\HealthyRecord\HealthyRecord\obj\Debug\netcoreapp3.1\HealthyRecord.pdb
+C:\Users\qqu\source\repos\HealthyRecord\HealthyRecord\obj\Debug\netcoreapp3.1\HealthyRecord.genruntimeconfig.cache
